@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_g"
+            android:icon="@drawable/ic_musik"
+            android:title="Guitar" />
+        <item
+            android:id="@+id/nav_b"
+            android:icon="@drawable/ic_musik"
+            android:title="Bass" />
+        <item
+            android:id="@+id/nav_d"
+            android:icon="@drawable/ic_musik"
+            android:title="Drum" />
+        <item
+            android:id="@+id/nav_alarm"
+            android:icon="@drawable/ic_musik"
+            android:title="Alarm" />
+    </group>
+</menu>

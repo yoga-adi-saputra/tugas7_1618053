@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Project_1618053_TokoAlatMusik</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    //guitar
+    <string-array name="guitar">
+        <item>Guitar  1</item>
+        <item>Guitar  2</item>
+        <item>Guitar  3</item>
+        <item>Guitar  4</item>
+    </string-array>
+    <string-array name="star_guitar">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="harga_guitar">
+        <item>Rp. 100.000</item>
+        <item>Rp. 65.000</item>
+        <item>Rp. 80.000</item>
+        <item>Rp. 87.000</item>
+    </string-array>
+
+    //Pakaian Wanita
+    <string-array name="bass">
+        <item>Bass 1</item>
+        <item>Bass 2</item>
+        <item>Bass 3</item>
+        <item>Bass 4</item>
+    </string-array>
+    <string-array name="star_bass">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="harga_bass">
+        <item>Rp. 100.000</item>
+        <item>Rp. 65.000</item>
+        <item>Rp. 80.000</item>
+        <item>Rp. 87.000</item>
+    </string-array>
+
+    //Pakaian Bayi
+    <string-array name="drum">
+        <item>Drum 1</item>
+        <item>Drum 2</item>
+        <item>Drum 3</item>
+        <item>Drum 4</item>
+    </string-array>
+    <string-array name="star_drum">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="harga_drum">
+        <item>Rp. 100.000</item>
+        <item>Rp. 65.000</item>
+        <item>Rp. 80.000</item>
+        <item>Rp. 87.000</item>
+    </string-array>
+
+</resources>
